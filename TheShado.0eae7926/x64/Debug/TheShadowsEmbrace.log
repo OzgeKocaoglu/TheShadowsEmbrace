@@ -1,4 +1,13 @@
-﻿  PlayerCharacter.cpp
-  TheShadowsEmbrace.cpp
+﻿  Bard.cpp
+  Cleric.cpp
+  Druid.cpp
+  Fighter.cpp
+  Monk.cpp
+  Paladin.cpp
+  Ranger.cpp
+  Rogue.cpp
+  Sorcerer.cpp
+  Warlock.cpp
+  Wizard.cpp
   Generating Code...
   TheShadowsEmbrace.vcxproj -> C:\GameDev\TheShadowsEmbrace\x64\Debug\TheShadowsEmbrace.exe
