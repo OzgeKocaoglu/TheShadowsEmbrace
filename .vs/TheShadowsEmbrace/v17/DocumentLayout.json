@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\GameDev\\TheShadowsEmbrace\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Charisma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Charisma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Wisdom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Wisdom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\PlayerCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:PlayerCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\CharacterClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:CharacterClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Skill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Skill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Ranger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Ranger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|C:\\GameDev\\TheShadowsEmbrace\\Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EAE7926-1DA3-4562-843D-97114297A952}|TheShadowsEmbrace.vcxproj|solutionrelative:Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +35,72 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Strength.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Strength.h",
-              "RelativeDocumentMoniker": "Strength.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Strength.h",
-              "RelativeToolTip": "Strength.h",
+              "Title": "Charisma.h",
+              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Charisma.h",
+              "RelativeDocumentMoniker": "Charisma.h",
+              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Charisma.h",
+              "RelativeToolTip": "Charisma.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T22:54:51.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerCharacter.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\PlayerCharacter.h",
-              "RelativeDocumentMoniker": "PlayerCharacter.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\PlayerCharacter.h",
-              "RelativeToolTip": "PlayerCharacter.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T22:52:35.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ranger.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Ranger.h",
-              "RelativeDocumentMoniker": "Ranger.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Ranger.h",
-              "RelativeToolTip": "Ranger.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T22:49:28.046Z",
+              "WhenOpened": "2024-05-13T19:51:23.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Character.h",
-              "RelativeDocumentMoniker": "Character.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Character.h",
-              "RelativeToolTip": "Character.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Title": "Wisdom.h",
+              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Wisdom.h",
+              "RelativeDocumentMoniker": "Wisdom.h",
+              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Wisdom.h",
+              "RelativeToolTip": "Wisdom.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T22:06:01.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Skill.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Skill.h",
-              "RelativeDocumentMoniker": "Skill.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Skill.h",
-              "RelativeToolTip": "Skill.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T22:48:50.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ability.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Ability.h",
-              "RelativeDocumentMoniker": "Ability.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Ability.h",
-              "RelativeToolTip": "Ability.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T22:44:32.779Z",
+              "WhenOpened": "2024-05-13T19:50:24.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CharacterClass.h",
-              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\CharacterClass.h",
-              "RelativeDocumentMoniker": "CharacterClass.h",
-              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\CharacterClass.h",
-              "RelativeToolTip": "CharacterClass.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "Intelligence.h",
+              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Intelligence.h",
+              "RelativeDocumentMoniker": "Intelligence.h",
+              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Intelligence.h",
+              "RelativeToolTip": "Intelligence.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-12T20:53:17.885Z",
+              "WhenOpened": "2024-05-13T19:49:55.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dexterity.h",
+              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Dexterity.h",
+              "RelativeDocumentMoniker": "Dexterity.h",
+              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Dexterity.h",
+              "RelativeToolTip": "Dexterity.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T19:47:25.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strength.h",
+              "DocumentMoniker": "C:\\GameDev\\TheShadowsEmbrace\\Strength.h",
+              "RelativeDocumentMoniker": "Strength.h",
+              "ToolTip": "C:\\GameDev\\TheShadowsEmbrace\\Strength.h",
+              "RelativeToolTip": "Strength.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T19:45:17.451Z",
               "EditorCaption": ""
             }
           ]
